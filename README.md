@@ -1,6 +1,9 @@
 # API-Rest-SpringBoot
 Um sistema API REST de usuários e departamentos feito em JAVA Web com a framework SpringBoot
 
+# Oque é uma API RestFul?
+Uma API RESTful é um tipo de interface de programação de aplicativos (API) baseada em princípios REST (Representational State Transfer). Ela permite a comunicação eficiente entre sistemas na web, tratando recursos como objetos acessíveis por URLs e usando operações HTTP (GET, POST, PUT, DELETE) para realizar ações em recursos. As APIs RESTful são conhecidas por serem simples, escaláveis e seguirem um modelo cliente-servidor sem estado. Elas são amplamente usadas para criar serviços web que fornecem acesso a dados e funcionalidades de forma padronizada e interoperável.
+
 Acesso: Primeiro dar um (RE)start no local;
 
 - link: http://localhost:8080
