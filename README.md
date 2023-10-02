@@ -9,4 +9,17 @@ Acesso: Primeiro dar um (RE)start no local;
 - password: " "
 
 Para acesso aos usuários:
+(Leitura em JSON)
 - link: http://localhost:8080/users
+
+# Banco visualizado com Postman
+  ![image](https://github.com/leorufinx/API-Rest-SpringBoot/assets/119766870/f953b197-4dc4-4358-a217-5fab15d7761e)
+
+  # Listando por ID
+  ![image](https://github.com/leorufinx/API-Rest-SpringBoot/assets/119766870/d33640d0-ac9a-422e-bf99-0d754a34eb36)
+
+  # Inserindo ao banco por JSON com Postman
+![image](https://github.com/leorufinx/API-Rest-SpringBoot/assets/119766870/0bd83199-33a2-4d6f-a13d-161eb9f6d9cd)
+
+
+
